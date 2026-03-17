@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/httpsMendes">
     <img src="https://img.shields.io/github/followers/seu-usuario?label=Seguidores&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/pedro-mendes-1ba551215/">
