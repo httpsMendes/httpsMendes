@@ -42,10 +42,7 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=httpsMendes&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsMendes&layout=compact&theme=radical"/>
-</p>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=httpsmendes&show_icons=true&theme=tokyonight)
 
 ---
 
